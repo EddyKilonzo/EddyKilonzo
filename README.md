@@ -26,6 +26,25 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="70px" alt="WordPress"><br>WordPress</a>
 </p>
 
+## ⚙️ Backend
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="70px" alt="NestJS"><br>NestJS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70px" alt="Node.js"><br>Node.js</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70px" alt="Express.js"><br>Express.js</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70px" alt="PostgreSQL"><br>PostgreSQL</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="70px" alt="Prisma"><br>Prisma</a>
+</p>
+
+## 🛠 Tools & Others
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70px" alt="Git"><br>Git</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70px" alt="GitHub"><br>GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70px" alt="Figma"><br>Figma</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70px" alt="Docker"><br>Docker</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70px" alt="VS Code"><br>VS Code</a>
+</p>
+
+
 
 
 # 📊 GitHub Stats:
