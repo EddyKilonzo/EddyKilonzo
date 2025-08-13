@@ -31,7 +31,7 @@
 
 ## ⚙️ Backend
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="60px" alt="NestJS">&nbsp;&nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="60px" alt="NestJS">&nbsp;&nbsp;&nbsp;&nbsp;](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" alt="Node.js">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px" alt="Express.js">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60px" alt="PostgreSQL">&nbsp;&nbsp;&nbsp;&nbsp;
