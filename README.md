@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working  on Development with Angular<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning, Typescript, Nestjs and Angular<br>💬 Ask me about,  Front-end and design<br>⚡ Fun fact, , I love Poetry and listening to music
+# 🌟 Hey there, I'm Eddy Kilonzo!  
+
+> *Turning ideas into beautiful, functional code — one commit at a time.*  
+
+---
+
+## 💫 About Me  
+- 🔭 Currently crafting **dynamic web apps** with **Angular**  
+- 👯 Always open to collaborating on **innovative front-end experiences** & **open-source projects**  
+- 🤝 Looking for guidance & insights in **scalable backend development with NestJS**  
+- 🌱 Deep-diving into **TypeScript, Angular**, and **NestJS**  
+- 💬 Ask me about **front-end development, UI/UX design, and bringing ideas to life**  
+- ⚡ Fun fact: I’m a **poet at heart**, and music is my fuel 🎶  
+
 
 
 ## 🌐 Socials:
