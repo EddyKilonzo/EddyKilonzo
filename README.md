@@ -125,11 +125,11 @@ Security Motto: "Think like an attacker, defend like a guardian"
 <br><strong>WordPress</strong>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=woocommerce" width="70" height="70" alt="WooCommerce" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/woocommerce.svg" width="70" height="70" style="fill: #96588A;" alt="WooCommerce" />
 <br><strong>WooCommerce</strong>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elementor/elementor-original.svg" width="70" height="70" alt="Elementor" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elementor.svg" width="70" height="70" style="fill: #92003B;" alt="Elementor" />
 <br><strong>Elementor</strong>
 </td>
 </tr>
@@ -143,19 +143,19 @@ Security Motto: "Think like an attacker, defend like a guardian"
 <br><strong>Kali Linux</strong>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="70" height="70" alt="Nmap" style="filter: invert(1);" />
+<img src="https://img.shields.io/badge/-NMAP-4682B4?style=for-the-badge&logo=nmap&logoColor=white&logoWidth=40" height="70" alt="Nmap" />
 <br><strong>Nmap</strong>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="70" height="70" alt="Metasploit" />
+<img src="https://img.shields.io/badge/-METASPLOIT-ED1C24?style=for-the-badge&logo=rapid7&logoColor=white&logoWidth=40" height="70" alt="Metasploit" />
 <br><strong>Metasploit</strong>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="70" height="70" alt="Wireshark" style="filter: hue-rotate(200deg);" />
+<img src="https://img.shields.io/badge/-WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&logoWidth=40" height="70" alt="Wireshark" />
 <br><strong>Wireshark</strong>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="70" height="70" alt="Burp Suite" style="filter: hue-rotate(280deg);" />
+<img src="https://img.shields.io/badge/-BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&logoWidth=40" height="70" alt="Burp Suite" />
 <br><strong>Burp Suite</strong>
 </td>
 </tr>
@@ -339,6 +339,5 @@ Mon Tue Wed Thu Fri Sat Sun
 
 ---
 
-<sub>💜 **Crafted with passion, powered by curiosity** 💜</sub>
 
 </div>
