@@ -68,24 +68,24 @@ Security Motto: "Think like an attacker, defend like a guardian"
 ### 🎨 **Frontend Mastery**
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
 <br><strong>HTML5</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
 <br><strong>CSS3</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
 <br><strong>JavaScript</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" />
 <br><strong>TypeScript</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular" />
 <br><strong>Angular</strong>
 </td>
 </tr>
@@ -94,24 +94,24 @@ Security Motto: "Think like an attacker, defend like a guardian"
 ### ⚙️ **Backend Power**
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nestjs" width="60" height="60" alt="NestJS" />
 <br><strong>NestJS</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
 <br><strong>Node.js</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
 <br><strong>Express.js</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
 <br><strong>PostgreSQL</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" />
 <br><strong>Prisma</strong>
 </td>
 </tr>
@@ -120,21 +120,17 @@ Security Motto: "Think like an attacker, defend like a guardian"
 ### 🛠️ **CMS & Content Management**
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=wordpress" width="60" height="60" alt="WordPress" />
 <br><strong>WordPress</strong>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="48" height="48" alt="WooCommerce" />
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="60" height="60" alt="WooCommerce" />
 <br><strong>WooCommerce</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/elementor.png" width="48" height="48" alt="Elementor" />
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/elementor-1.svg" width="60" height="60" alt="Elementor" />
 <br><strong>Elementor</strong>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/shopify.png" width="48" height="48" alt="Shopify" />
-<br><strong>Shopify</strong>
 </td>
 </tr>
 </table>
@@ -142,24 +138,24 @@ Security Motto: "Think like an attacker, defend like a guardian"
 ### 🛡️ **Cybersecurity & Penetration Testing**
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/kali-linux.png" width="48" height="48" alt="Kali Linux" />
+<td align="center" width="120">
+<img src="https://www.kali.org/images/kali-dragon-icon.svg" width="60" height="60" alt="Kali Linux" />
 <br><strong>Kali Linux</strong>
 </td>
-<td align="center" width="96">
-<img src="https://nmap.org/images/sitelogo.png" width="48" height="48" alt="Nmap" />
+<td align="center" width="120">
+<img src="https://nmap.org/images/nmap-logo-256x256.png" width="60" height="60" alt="Nmap" />
 <br><strong>Nmap</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/metasploit.png" width="48" height="48" alt="Metasploit" />
+<td align="center" width="120">
+<img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" width="60" height="60" alt="Metasploit" />
 <br><strong>Metasploit</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/wireshark.png" width="48" height="48" alt="Wireshark" />
+<td align="center" width="120">
+<img src="https://www.wireshark.org/assets/images/wireshark-icon.svg" width="60" height="60" alt="Wireshark" />
 <br><strong>Wireshark</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/burp-suite.png" width="48" height="48" alt="Burp Suite" />
+<td align="center" width="120">
+<img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="60" height="60" alt="Burp Suite" />
 <br><strong>Burp Suite</strong>
 </td>
 </tr>
@@ -168,24 +164,24 @@ Security Motto: "Think like an attacker, defend like a guardian"
 ### 🔧 **Digital Tools & Magic**
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
 <br><strong>Git</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
 <br><strong>GitHub</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
 <br><strong>Figma</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
 <br><strong>Docker</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" />
 <br><strong>VS Code</strong>
 </td>
 </tr>
@@ -199,11 +195,19 @@ Security Motto: "Think like an attacker, defend like a guardian"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=EddyKilonzo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9" />
+### 📈 **GitHub Performance Dashboard**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=EddyKilonzo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD93D&line=FF6B6B&point=C9D1D9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&custom_title=Eddy's%20GitHub%20Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=EddyKilonzo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9" />
+
+### 🎯 **Code Distribution & Activity**
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact" />
+
+### 📊 **Contribution Heatmap**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyKilonzo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD93D&line=FF6B6B&point=C9D1D9&area_color=FF6B6B&area=true&custom_title=Contribution%20Activity)
 
 </div>
 
@@ -265,6 +269,6 @@ Security Motto: "Think like an attacker, defend like a guardian"
 
 ---
 
-
+<sub>💜 **Crafted with passion, powered by curiosity** 💜</sub>
 
 </div>
