@@ -120,16 +120,16 @@ Security Motto: "Think like an attacker, defend like a guardian"
 ### 🛠️ **CMS & Content Management**
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=wordpress" width="60" height="60" alt="WordPress" />
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=wordpress" width="70" height="70" alt="WordPress" />
 <br><strong>WordPress</strong>
 </td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/assets/images/woocommerce_logo.png" width="60" height="60" alt="WooCommerce" />
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=woocommerce" width="70" height="70" alt="WooCommerce" />
 <br><strong>WooCommerce</strong>
 </td>
-<td align="center" width="120">
-<img src="https://ps.w.org/elementor/assets/icon-256x256.png" width="60" height="60" alt="Elementor" />
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elementor/elementor-original.svg" width="70" height="70" alt="Elementor" />
 <br><strong>Elementor</strong>
 </td>
 </tr>
@@ -138,24 +138,24 @@ Security Motto: "Think like an attacker, defend like a guardian"
 ### 🛡️ **Cybersecurity & Penetration Testing**
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60" alt="Kali Linux" />
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=kali" width="70" height="70" alt="Kali Linux" />
 <br><strong>Kali Linux</strong>
 </td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="60" height="60" alt="Nmap" />
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="70" height="70" alt="Nmap" style="filter: invert(1);" />
 <br><strong>Nmap</strong>
 </td>
-<td align="center" width="120">
-<img src="https://github.com/rapid7/metasploit-framework/raw/master/data/logos/metasploit.png" width="60" height="60" alt="Metasploit" />
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="70" height="70" alt="Metasploit" />
 <br><strong>Metasploit</strong>
 </td>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="60" height="60" alt="Wireshark" />
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="70" height="70" alt="Wireshark" style="filter: hue-rotate(200deg);" />
 <br><strong>Wireshark</strong>
 </td>
-<td align="center" width="120">
-<img src="https://portswigger.net/content/images/logos/burp-suite-professional-icon.svg" width="60" height="60" alt="Burp Suite" />
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="70" height="70" alt="Burp Suite" style="filter: hue-rotate(280deg);" />
 <br><strong>Burp Suite</strong>
 </td>
 </tr>
@@ -200,21 +200,33 @@ Security Motto: "Think like an attacker, defend like a guardian"
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&custom_title=Eddy's%20GitHub%20Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=EddyKilonzo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9" />
 
-### 🎯 **Code Distribution & Skills Matrix**
+### 🎯 **Code Distribution & Contribution Calendar**
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" />
 
 <div width="48%" style="display: inline-block; vertical-align: top;">
 
-### 💻 **Coding Activity Summary**
+### 📅 **2024 Contribution Heatmap**
+
+<div align="center">
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/FF6B6B/EddyKilonzo)
+
+**🔥 Contribution Stats:**
 ```
-🌟 Total Repositories: 25+
-🔥 Active Projects: 8
-⭐ GitHub Stars Earned: 127
-🤝 Pull Requests: 42
-🐛 Issues Resolved: 89
-🌱 Contributions (2024): 850+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+███ ███ ███ ██▌ ███ ███ ███ ██▌ ███ ▌▌▌ ▌▌▌ ▌▌▌
+120  98 145  67 134 156 178  89 203  12   8  15
 ```
+
+**📊 Daily Contribution Pattern:**
+```
+Mon Tue Wed Thu Fri Sat Sun
+███ ███ ██▌ ███ ███ ▌██ ▌▌▌
+ 12   8  14  15   9   7   3
+```
+
+</div>
 
 </div>
 
@@ -286,19 +298,30 @@ Security Motto: "Think like an attacker, defend like a guardian"
 
 ---
 
-## 🎵 **Current Coding Vibes**
+## 🎵 **Current Coding Vibes - Interactive Player**
 
 <div align="center">
 
-```
-🎧 Currently Jamming To 🎧
+### 🎧 Now Playing: "Run Outta Breath - Sus" 🎧
 
-♪ ♫ ♪ Run Outta Breath - Sus ♪ ♫ ♪
-━━━━━━━━●─────────────── 2:34 / 3:47
-⇄   ◃◃   ⅠⅠ   ▹▹   ↻     🔊 ──○ 🔊
+```
+╭─────────────────────────────────────────╮
+│  🎵 Run Outta Breath - Sus             │
+│  ━━━━━━━━●──────────── 2:34 / 3:47      │
+│  ⇄ ◃◃ ⏸️ ▹▹ ↻    🔊 ──○ 🔊           │
+╰─────────────────────────────────────────╯
 ```
 
-**🎶 [Play on Spotify](https://open.spotify.com/search/run%20outta%20breath%20sus) | [Play on YouTube](https://www.youtube.com/results?search_query=run+outta+breath+sus) 🎶**
+<details>
+<summary>🎶 <strong>Play This Track</strong> 🎶</summary>
+
+**Available on:**
+- 🟢 [**Spotify**](https://open.spotify.com/search/run%20outta%20breath%20sus) - Click to play on Spotify
+- 🔴 [**YouTube**](https://www.youtube.com/results?search_query=run+outta+breath+sus) - Watch/Listen on YouTube  
+- 🟠 [**SoundCloud**](https://soundcloud.com/search?q=run%20outta%20breath%20sus) - Stream on SoundCloud
+- 🟣 [**Apple Music**](https://music.apple.com/search?term=run%20outta%20breath%20sus) - Listen on Apple Music
+
+</details>
 
 *"Music is the syntax of my soul, code is the runtime of my dreams"*
 
@@ -312,7 +335,7 @@ Security Motto: "Think like an attacker, defend like a guardian"
 
 **Let's turn your wildest ideas into digital reality!**
 
-![Visitor Count](https://profile-counter.glitch.me/EddyKilonzo/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=EddyKilonzo&style=for-the-badge&color=FF6B6B&label=VISITORS)
 
 ---
 
