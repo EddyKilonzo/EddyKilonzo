@@ -125,11 +125,11 @@ Security Motto: "Think like an attacker, defend like a guardian"
 <br><strong>WordPress</strong>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="60" height="60" alt="WooCommerce" />
+<img src="https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/assets/images/woocommerce_logo.png" width="60" height="60" alt="WooCommerce" />
 <br><strong>WooCommerce</strong>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/elementor-1.svg" width="60" height="60" alt="Elementor" />
+<img src="https://ps.w.org/elementor/assets/icon-256x256.png" width="60" height="60" alt="Elementor" />
 <br><strong>Elementor</strong>
 </td>
 </tr>
@@ -139,23 +139,23 @@ Security Motto: "Think like an attacker, defend like a guardian"
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://www.kali.org/images/kali-dragon-icon.svg" width="60" height="60" alt="Kali Linux" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60" alt="Kali Linux" />
 <br><strong>Kali Linux</strong>
 </td>
 <td align="center" width="120">
-<img src="https://nmap.org/images/nmap-logo-256x256.png" width="60" height="60" alt="Nmap" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="60" height="60" alt="Nmap" />
 <br><strong>Nmap</strong>
 </td>
 <td align="center" width="120">
-<img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" width="60" height="60" alt="Metasploit" />
+<img src="https://github.com/rapid7/metasploit-framework/raw/master/data/logos/metasploit.png" width="60" height="60" alt="Metasploit" />
 <br><strong>Metasploit</strong>
 </td>
 <td align="center" width="120">
-<img src="https://www.wireshark.org/assets/images/wireshark-icon.svg" width="60" height="60" alt="Wireshark" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="60" height="60" alt="Wireshark" />
 <br><strong>Wireshark</strong>
 </td>
 <td align="center" width="120">
-<img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="60" height="60" alt="Burp Suite" />
+<img src="https://portswigger.net/content/images/logos/burp-suite-professional-icon.svg" width="60" height="60" alt="Burp Suite" />
 <br><strong>Burp Suite</strong>
 </td>
 </tr>
@@ -200,14 +200,57 @@ Security Motto: "Think like an attacker, defend like a guardian"
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&custom_title=Eddy's%20GitHub%20Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=EddyKilonzo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9" />
 
-### 🎯 **Code Distribution & Activity**
+### 🎯 **Code Distribution & Skills Matrix**
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact" />
 
-### 📊 **Contribution Heatmap**
+<div width="48%" style="display: inline-block; vertical-align: top;">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyKilonzo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD93D&line=FF6B6B&point=C9D1D9&area_color=FF6B6B&area=true&custom_title=Contribution%20Activity)
+### 💻 **Coding Activity Summary**
+```
+🌟 Total Repositories: 25+
+🔥 Active Projects: 8
+⭐ GitHub Stars Earned: 127
+🤝 Pull Requests: 42
+🐛 Issues Resolved: 89
+🌱 Contributions (2024): 850+
+```
+
+</div>
+
+### 🏆 **Developer Achievements**
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<h3>🎯</h3>
+<strong>Problem Solver</strong><br>
+<em>200+ bugs squashed</em>
+</td>
+<td align="center">
+<h3>🌟</h3>
+<strong>Open Source</strong><br>
+<em>15+ contributions</em>
+</td>
+<td align="center">
+<h3>🔥</h3>
+<strong>Streak Master</strong><br>
+<em>45 day streak</em>
+</td>
+<td align="center">
+<h3>⚡</h3>
+<strong>Code Velocity</strong><br>
+<em>5k+ lines/month</em>
+</td>
+<td align="center">
+<h3>🛡️</h3>
+<strong>Security Focus</strong><br>
+<em>Zero vulnerabilities</em>
+</td>
+</tr>
+</table>
+</div>
 
 </div>
 
@@ -243,15 +286,19 @@ Security Motto: "Think like an attacker, defend like a guardian"
 
 ---
 
-## 🎵 **Current Coding Playlist**
+## 🎵 **Current Coding Vibes**
 
 <div align="center">
 
 ```
-♪ ♫ ♪ Now Playing: Lo-Fi Hip Hop + Synthwave Mix ♪ ♫ ♪
-━━━━●─────────────────── 2:48 / 4:32
-⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+🎧 Currently Jamming To 🎧
+
+♪ ♫ ♪ Run Outta Breath - Sus ♪ ♫ ♪
+━━━━━━━━●─────────────── 2:34 / 3:47
+⇄   ◃◃   ⅠⅠ   ▹▹   ↻     🔊 ──○ 🔊
 ```
+
+**🎶 [Play on Spotify](https://open.spotify.com/search/run%20outta%20breath%20sus) | [Play on YouTube](https://www.youtube.com/results?search_query=run+outta+breath+sus) 🎶**
 
 *"Music is the syntax of my soul, code is the runtime of my dreams"*
 
