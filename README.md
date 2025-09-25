@@ -18,7 +18,7 @@
 
 ### 🌟 **Turning caffeine into code & dreams into digital reality** ☕️→💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Frontend+Magician+%F0%9F%AA%84;Angular+%26+TypeScript+Enthusiast;WordPress+%26+WooCommerce+Developer;Ethical+Hacker+%26+Pentester+%F0%9F%94%92;Kali+Linux+%26+Nmap+Explorer;Open+Source+Contributor;Music-Powered+Developer+%F0%9F%8E%B5;Building+Tomorrow's+Web+Today)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Frontend+Magician+%F0%9F%AA%84;Angular+%26+TypeScript+Enthusiast;WordPress+%26+WooCommerce+Developer;Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor;Music-Powered+Developer+%F0%9F%8E%B5;Building+Tomorrow's+Web+Today)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,24 +30,24 @@
 
 ```yaml
 Name: Eddy Max Kilonzo
-Role: Full-Stack Developer, Creative Technologist & Ethical Hacker
+Role: Full-Stack Developer & Creative Technologist
 Location: Building the future, one commit at a time
-Passion: Crafting elegant solutions & securing digital frontiers
+Passion: Crafting elegant solutions & beautiful user experiences
 Fuel: Music 🎶 + Coffee ☕️ + Clean Code + Terminal Magic
-Philosophy: "Every bug is a feature waiting to happen, every vulnerability is a lesson"
-Security Motto: "Think like an attacker, defend like a guardian"
+Philosophy: "Every bug is a feature waiting to happen"
+Interests: Web Development, UI/UX Design, Cybersecurity
 ```
 
 - 🔥 **Currently Building:** Next-gen web applications with Angular & TypeScript
 - 🤝 **Collaborating On:** Innovative frontend experiences & open-source magic
-- 🎯 **Learning Focus:** Scalable backend architecture with NestJS & Cybersecurity
-- 💡 **Ask Me About:** Frontend wizardry, UI/UX alchemy, WordPress magic & ethical hacking
-- 🛡️ **Security Side:** Pentesting with Kali Linux and network reconnaissance
-- 🎭 **Fun Fact:** I write poetry in JavaScript and conduct security symphonies with Nmap
+- 🎯 **Learning Focus:** Scalable backend architecture with NestJS
+- 💡 **Ask Me About:** Frontend wizardry, UI/UX alchemy, WordPress magic
+- 🛡️ **Side Interest:** Exploring cybersecurity fundamentals
+- 🎭 **Fun Fact:** I write poetry in JavaScript and debug to the rhythm of music
 
 ---
 
-## 🌈 **Connect & Vibe With Me**
+## 🤝 **Connect & Vibe With Me**
 
 <div align="center">
 
@@ -135,32 +135,6 @@ Security Motto: "Think like an attacker, defend like a guardian"
 </tr>
 </table>
 
-### 🛡️ **Cybersecurity & Penetration Testing**
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=kali" width="70" height="70" alt="Kali Linux" />
-<br><strong>Kali Linux</strong>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/-NMAP-4682B4?style=for-the-badge&logo=nmap&logoColor=white&logoWidth=40" height="70" alt="Nmap" />
-<br><strong>Nmap</strong>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/-METASPLOIT-ED1C24?style=for-the-badge&logo=rapid7&logoColor=white&logoWidth=40" height="70" alt="Metasploit" />
-<br><strong>Metasploit</strong>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/-WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&logoWidth=40" height="70" alt="Wireshark" />
-<br><strong>Wireshark</strong>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/-BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&logoWidth=40" height="70" alt="Burp Suite" />
-<br><strong>Burp Suite</strong>
-</td>
-</tr>
-</table>
-
 ### 🔧 **Digital Tools & Magic**
 <table>
 <tr>
@@ -200,35 +174,9 @@ Security Motto: "Think like an attacker, defend like a guardian"
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&custom_title=Eddy's%20GitHub%20Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=EddyKilonzo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9" />
 
-### 🎯 **Code Distribution & Contribution Calendar**
+### 🎯 **Code Distribution**
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" />
-
-<div width="48%" style="display: inline-block; vertical-align: top;">
-
-### 📅 **2024 Contribution Heatmap**
-
-<div align="center">
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/FF6B6B/EddyKilonzo)
-
-**🔥 Contribution Stats:**
-```
-Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
-███ ███ ███ ██▌ ███ ███ ███ ██▌ ███ ▌▌▌ ▌▌▌ ▌▌▌
-120  98 145  67 134 156 178  89 203  12   8  15
-```
-
-**📊 Daily Contribution Pattern:**
-```
-Mon Tue Wed Thu Fri Sat Sun
-███ ███ ██▌ ███ ███ ▌██ ▌▌▌
- 12   8  14  15   9   7   3
-```
-
-</div>
-
-</div>
+<img width="64%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" />
 
 ### 🏆 **Developer Achievements**
 
@@ -257,7 +205,7 @@ Mon Tue Wed Thu Fri Sat Sun
 </td>
 <td align="center">
 <h3>🛡️</h3>
-<strong>Security Focus</strong><br>
+<strong>Clean Code</strong><br>
 <em>Zero vulnerabilities</em>
 </td>
 </tr>
@@ -319,7 +267,7 @@ Mon Tue Wed Thu Fri Sat Sun
 - 🟢 [**Spotify**](https://open.spotify.com/search/run%20outta%20breath%20sus) - Click to play on Spotify
 - 🔴 [**YouTube**](https://www.youtube.com/results?search_query=run+outta+breath+sus) - Watch/Listen on YouTube  
 - 🟠 [**SoundCloud**](https://soundcloud.com/search?q=run%20outta%20breath%20sus) - Stream on SoundCloud
-- 🟣 [**Apple Music**](https://music.apple.com/search?term=run%20outta%20breath%20sus) - Listen on Apple Music
+- 🟣 [**Apple Music**](https://music.apple.com/search?term=run+outta%20breath%20sus) - Listen on Apple Music
 
 </details>
 
@@ -338,6 +286,5 @@ Mon Tue Wed Thu Fri Sat Sun
 ![Visitor Count](https://komarev.com/ghpvc/?username=EddyKilonzo&style=for-the-badge&color=FF6B6B&label=VISITORS)
 
 ---
-
 
 </div>
