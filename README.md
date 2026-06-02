@@ -49,35 +49,109 @@ Quote    : "Every bug is a feature waiting to happen"
 
 <div align="center">
 
-**Frontend**
+#### 🎨 Frontend
 
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)&nbsp;
-[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/><br/>
+      <sub><b>Angular</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Backend**
+#### ⚙️ Backend
 
-[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)&nbsp;
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)&nbsp;
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)&nbsp;
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)&nbsp;
-[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS"/><br/>
+      <sub><b>NestJS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/><br/>
+      <sub><b>Prisma</b></sub>
+    </td>
+  </tr>
+</table>
 
-**CMS & Content**
+#### 🛠️ CMS & Content
 
-[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)&nbsp;
-[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)](https://woocommerce.com/)&nbsp;
-[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](https://elementor.com/)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress"/><br/>
+      <sub><b>WordPress</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/><br/>
+      <sub><b>WooCommerce</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/><br/>
+      <sub><b>Elementor</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Tools & Workflow**
+#### 🔧 Tools & Workflow
 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)&nbsp;
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)&nbsp;
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -102,27 +176,77 @@ Quote    : "Every bug is a feature waiting to happen"
 
 <br/>
 
-**🔴 Offensive Security**
+#### 🔴 Offensive Security
 
-| Tool / Domain | Proficiency | Purpose |
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux"/><br/>
+      <sub><b>Kali Linux</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" height="48" alt="Nmap"/><br/>
+      <sub><b>Nmap</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" height="48" alt="Burp Suite"/><br/>
+      <sub><b>Burp Suite</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" height="48" alt="Metasploit"/><br/>
+      <sub><b>Metasploit</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/OSINT-black?style=for-the-badge&logo=duckduckgo&logoColor=white" height="48" alt="OSINT"/><br/>
+      <sub><b>OSINT</b></sub>
+    </td>
+  </tr>
+</table>
+
+| Tool | Proficiency | Use Case |
 |:---|:---:|:---|
-| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) **Kali Linux** | `████████░░` | Primary pentesting OS |
-| ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white) **Nmap** | `████████░░` | Network reconnaissance & scanning |
-| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) **Burp Suite** | `███████░░░` | Web app vulnerability testing |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) **Metasploit** | `██████░░░░` | Exploitation framework |
-| 🕵️ **OSINT** | `███████░░░` | Open-source intelligence gathering |
+| Kali Linux | `████████░░` | Primary pentesting OS |
+| Nmap | `████████░░` | Network reconnaissance & scanning |
+| Burp Suite | `███████░░░` | Web app vulnerability testing |
+| Metasploit | `██████░░░░` | Exploitation framework |
+| OSINT | `███████░░░` | Open-source intelligence gathering |
 
 <br/>
 
-**🔵 Defensive Security**
+#### 🔵 Defensive Security
 
-| Tool / Domain | Proficiency | Purpose |
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="48" alt="Wireshark"/><br/>
+      <sub><b>Wireshark</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Secure_Code_Review-2B2D42?style=for-the-badge&logo=github&logoColor=white" height="48" alt="Secure Code Review"/><br/>
+      <sub><b>Code Review</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Threat_Modeling-7D4E57?style=for-the-badge&logo=shield&logoColor=white" height="48" alt="Threat Modeling"/><br/>
+      <sub><b>Threat Modeling</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/CTF-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white" height="48" alt="CTF"/><br/>
+      <sub><b>CTF Challenges</b></sub>
+    </td>
+  </tr>
+</table>
+
+| Tool | Proficiency | Use Case |
 |:---|:---:|:---|
-| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) **Wireshark** | `███████░░░` | Network traffic analysis |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux Hardening** | `████████░░` | System administration & security |
-| 🧩 **Secure Code Review** | `███████░░░` | Identifying vulnerabilities in source |
-| 🗺️ **Threat Modeling** | `██████░░░░` | System risk assessment |
-| 🚩 **CTF Challenges** | `████████░░` | Hands-on skill building |
+| Wireshark | `███████░░░` | Network traffic analysis |
+| Linux Hardening | `████████░░` | System administration & security |
+| Secure Code Review | `███████░░░` | Identifying vulnerabilities in source |
+| Threat Modeling | `██████░░░░` | System risk assessment |
+| CTF Challenges | `████████░░` | Hands-on skill building |
 
 <br/>
 
@@ -140,7 +264,7 @@ Quote    : "Every bug is a feature waiting to happen"
 
 <br/>
 
-**🏴 Live TryHackMe Stats**
+#### 🏴 Live TryHackMe Stats
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/eddy.kilonzo.png)](https://tryhackme.com/p/eddy.kilonzo)
 
@@ -158,12 +282,12 @@ Quote    : "Every bug is a feature waiting to happen"
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&custom_title=Eddy%27s%20GitHub%20Stats" alt="GitHub Stats" />
-<img width="48%" src="https://streak-stats.demolab.com?user=EddyKilonzo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&custom_title=Eddy%27s%20GitHub%20Stats&cache_seconds=86400" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=EddyKilonzo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
@@ -173,7 +297,7 @@ Quote    : "Every bug is a feature waiting to happen"
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EddyKilonzo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/EddyKilonzo)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EddyKilonzo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/EddyKilonzo)
 
 </div>
 
