@@ -164,9 +164,9 @@ Quote    : "Every bug is a feature waiting to happen"
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  [ SYSTEM ACCESS: AUTHORIZED ]                                   ║
-║  > Operator  : Eddy Max Kilonzo                                  ║
-║  > Clearance : Security Researcher & Ethical Hacker              ║
-║  > Status    : ACTIVE — identifying attack surfaces...           ║
+║  > Operator : Eddy Max Kilonzo                                  ║
+║  > Clearance: SOC Analyst             ║
+║  > Status   : ACTIVE — identifying attack surfaces...           ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
