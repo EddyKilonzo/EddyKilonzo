@@ -164,9 +164,9 @@ Quote    : "Every bug is a feature waiting to happen"
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  [ SYSTEM ACCESS: AUTHORIZED ]                                   ║
-║  > Operator : Eddy Max Kilonzo                                  ║
-║  > Clearance: SOC Analyst             ║
-║  > Status   : ACTIVE — identifying attack surfaces...           ║
+║  > Operator  : Eddy Max Kilonzo                                  ║
+║  > Clearance : Security Researcher & Ethical Hacker              ║
+║  > Status    : ACTIVE — identifying attack surfaces...           ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -282,12 +282,8 @@ Quote    : "Every bug is a feature waiting to happen"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&custom_title=Eddy%27s%20GitHub%20Stats&cache_seconds=86400" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=EddyKilonzo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&cache_seconds=86400" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EddyKilonzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&custom_title=Eddy%27s%20GitHub%20Stats&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKilonzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 
 </div>
 
@@ -297,7 +293,7 @@ Quote    : "Every bug is a feature waiting to happen"
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EddyKilonzo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/EddyKilonzo)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EddyKilonzo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/EddyKilonzo)
 
 </div>
 
